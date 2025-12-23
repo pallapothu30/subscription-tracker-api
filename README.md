@@ -12,8 +12,6 @@
 
 # Subscription Tracker API
 
-This project was created while following a step-by-step tutorial and has been adapted here for learning and local use. It is presented in a neutral, non-promotional form and does not include external affiliate links or community invites.
-
 A simple, self-hosted Node.js API for managing subscriptions and users. This repository contains the server-side code (Express + MongoDB) for creating and tracking subscription records.
 
 ## Summary
